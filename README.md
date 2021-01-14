@@ -1,2 +1,2 @@
 # test
-Cpp code
+This is my first repository and i am testing it out.
